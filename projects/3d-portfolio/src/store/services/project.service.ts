@@ -23,7 +23,7 @@ export const projectApi = createApi({
         url: `/projects/${id}`,
         method: 'DELETE',
       }),
-      invalidatesTags: (result, error, id) => [{ type: 'Project', id }],
+      invalidatesTags: (_, __, id) => [{ type: 'Project', id }],
     }),
     createProject: builder.mutation<IProject, Partial<IProject>>({
       query: (body) => ({
@@ -38,7 +38,7 @@ export const projectApi = createApi({
         return `/projects/${id}`;
       },
 
-      providesTags: (result, error, id) => [{ type: 'Project', id }],
+      providesTags: (_, __, id) => [{ type: 'Project', id }],
     }),
     updateProject: builder.mutation<IProject, Partial<IProject>>({
       query: (body) => ({
@@ -46,7 +46,7 @@ export const projectApi = createApi({
         method: 'PUT',
         body,
       }),
-      invalidatesTags: (result, error, { id }) => [{ type: 'Project', id }],
+      invalidatesTags: (_, __, { id }) => [{ type: 'Project', id }],
     }),
   }),
 });
