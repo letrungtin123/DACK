@@ -49,6 +49,16 @@
       "id": 4,
       "title": "React",
       "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "title": "rttrrrrrtrt",
+      "desc": "rtrtrtrt",
+      "id": 5
+    },
+    {
+      "title": "C# + java",
+      "desc": "Professional Backend developer",
+      "id": 6
     }
   ],
   "projects": [
@@ -85,12 +95,12 @@
       "id": 3
     },
     {
-      "endDate": "2024-04-16",
-      "startDate": "2024-04-09",
-      "teamSize": 3,
-      "linkDemo": "https://github.com/dangtienhung/bootcamp-fe",
+      "title": "bootcamp",
       "linkCode": "https://github.com/dangtienhung/bootcamp-fe",
-      "title": "dang tien hung",
+      "linkDemo": "https://github.com/dangtienhung/bootcamp-fe",
+      "teamSize": 3,
+      "startDate": "2024-04-09",
+      "endDate": "2024-04-16",
       "sortDesc": "<p>abc</p>",
       "desc": "<p>abc</p>",
       "images": [
@@ -105,20 +115,20 @@
           "nodejs"
         ],
         "database": [
-          "mongdb"
+          "nodejs"
         ]
       },
       "id": 4
     },
     {
-      "endDate": "2024-04-16",
-      "startDate": "2024-04-09",
-      "teamSize": 3,
-      "linkDemo": "https://github.com/dangtienhung/bootcamp-fe",
+      "title": "bootcamp 2",
       "linkCode": "https://github.com/dangtienhung/bootcamp-fe",
-      "title": "dang tien hung",
-      "sortDesc": "Հայերեն Shqip ‫العربية Български Català 中文简体 Hrvatski Česky Dansk Nederlands English Eesti Filipino Suomi Français ქართული Deutsch Ελληνικά ‫עברית हिन्दी Magyar Indonesia Italiano Latviski Lietuviškai македонски Melayu Norsk Polski Português Româna Pyccкий Српски Slovenčina Slovenščina Español Svenska ไทย Türkçe Українська Tiếng Việt",
-      "desc": "<p>abc <img src=\"https://picsum.photos/536/354\"></p><ol><li><strong style=\"color: rgb(0, 0, 0);\">Lorem Ipsum</strong><span style=\"color: rgb(0, 0, 0);\">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a</span></li><li><span style=\"color: rgb(0, 0, 0);\"><span class=\"ql-cursor\">﻿</span>&nbsp;letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infa</span></li></ol>",
+      "linkDemo": "https://github.com/dangtienhung/bootcamp-fe",
+      "teamSize": 3,
+      "startDate": "2024-04-09",
+      "endDate": "2024-04-16",
+      "sortDesc": "<p>Հայերեն Shqip ‫العربية Български Català 中文简体 Hrvatski Česky Dansk Nederlands English Eesti Filipino Suomi Français ქართული Deutsch Ελληνικά ‫עברית हिन्दी Magyar Indonesia Italiano Latviski Lietuviškai македонски Melayu Norsk Polski Português Româna Pyccкий Српски Slovenčina Slovenščina Español Svenska ไทย Türkçe Українська Tiếng Việt</p>",
+      "desc": "<p>abc <img src=\"https://picsum.photos/536/354\"></p><ol><li><strong style=\"color: rgb(0, 0, 0);\">Lorem Ipsum</strong><span style=\"color: rgb(0, 0, 0);\">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a</span></li><li><span style=\"color: rgb(0, 0, 0);\">﻿&nbsp;letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infa</span></li></ol>",
       "images": [
         "http://res.cloudinary.com/dcwdrvxdg/image/upload/v1712235628/marathon-fe/gx1daoib5hokjnclwtmd.png"
       ],
@@ -131,7 +141,7 @@
           "nodejs"
         ],
         "database": [
-          "mongdb"
+          "nodejs"
         ]
       },
       "id": 5
@@ -217,6 +227,29 @@
         ]
       },
       "id": 8
+    },
+    {
+      "endDate": "2024-05-16",
+      "startDate": "2022-05-16",
+      "teamSize": 4,
+      "linkDemo": "https://github.com/",
+      "linkCode": "https://github.com/",
+      "title": "...",
+      "sortDesc": "<p>bbbb</p>",
+      "desc": "<p>bbbb</p>",
+      "images": [],
+      "techonology": {
+        "frontend": [
+          "react"
+        ],
+        "backend": [
+          "mongoose"
+        ],
+        "database": [
+          "postman"
+        ]
+      },
+      "id": 9
     }
   ],
   "certificate": {
